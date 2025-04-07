@@ -1,0 +1,7 @@
+D:\Visual Studio projects\lab_olympiad3\lab_olympiad3\bin\Debug\lab_olympiad3.exe.config
+D:\Visual Studio projects\lab_olympiad3\lab_olympiad3\bin\Debug\lab_olympiad3.exe
+D:\Visual Studio projects\lab_olympiad3\lab_olympiad3\bin\Debug\lab_olympiad3.pdb
+D:\Visual Studio projects\lab_olympiad3\lab_olympiad3\obj\Debug\lab_olympiad3.csproj.AssemblyReference.cache
+D:\Visual Studio projects\lab_olympiad3\lab_olympiad3\obj\Debug\lab_olympiad3.csproj.CoreCompileInputs.cache
+D:\Visual Studio projects\lab_olympiad3\lab_olympiad3\obj\Debug\lab_olympiad3.exe
+D:\Visual Studio projects\lab_olympiad3\lab_olympiad3\obj\Debug\lab_olympiad3.pdb
